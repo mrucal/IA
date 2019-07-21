@@ -1,0 +1,1 @@
+Version partiendo del diseño del curso 12/13 pasado a limpio. añadido recorrido por columnas de ejercicio 4b y refinamiento de la idea ejercicios 5 y 6. version con reglas totalmente nuevas, tomando decision en cada paso no solo tras los choques.
